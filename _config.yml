@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thorpapa.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/midori_writing.jpg"
 logo: "/assets/HJ_Logo2.png"
 
 # Build settings
