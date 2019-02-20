@@ -14,14 +14,14 @@ subtitle: "Between Science and Engineer"
 email: gegenwart2c@gmail.com
 name: HJ
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  From 1 post per week to 1 post per day
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thorpapa.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/HJ_Logo.png"
 
 # Build settings
 markdown: kramdown
